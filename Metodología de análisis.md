@@ -548,6 +548,7 @@ En resumen, creemos que este desarrollo es lo suficientemente sólido para satis
 Aquí tenemos un esquema resumen de toda la metodología:
 
 ![Esquema Resumen](/Assets/Esquema%20resumen.jpg)
+[Ejemplo de otro equemas resumen](/Assets/Esquema%20resumen%202.png)
 
 <br>
 
