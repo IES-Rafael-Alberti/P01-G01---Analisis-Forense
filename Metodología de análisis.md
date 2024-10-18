@@ -544,3 +544,11 @@ Como resultado de esta comparación, hemos propuesto una metodología propia, ba
 En resumen, creemos que este desarrollo es lo suficientemente sólido para satisfacer las necesidades actuales.
 
 ![Esquema Resumen](/Assets/Esquema%20resumen.jpg)
+
+<br>
+
+# Fuentes
+
+[UNE 71605:2013](https://peritoinformaticocolegiado.es/blog/estandares-nacionales-e-internacionales-que-puede-seguir-un-perito-informatico-para-realizar-el-analisis-forense-de-una-evidencia-y-para-la-elaboracion-de-un-peritaje-informatico/) <br>
+[ISO/IEC 27037](https://ciberseguridad.com/normativa/espana/iso-iec-27037-evidencia-digital/) <br> 
+[RFC 3227](https://www.incibe.es/incibe-cert/blog/rfc3227)
