@@ -250,3 +250,132 @@ La elección de **ISO/IEC 27037**, **RFC 3227** y **UNE 71506** está justificad
     
 
 Juntos, estos estándares aseguran una gestión completa de la evidencia, desde su recolección hasta su análisis técnico, mejorando la eficacia de las investigaciones forenses.
+
+Desarrollo de metodología propia
+================================
+
+Presentamos una metodología de análisis forense digital, desarrollada a partir de un análisis exhaustivo de las normativas internacionales ISO/IEC, NIST, UNE y DSFI.
+
+Adquisición de evidencia digital. (ISO/IEC 27037)
+-------------------------------------------------
+
+Primeramente, es vital detectar qué datos pueden ser evidencias digitales. Según la norma que utilizamos, tenemos que tratar de reconocer qué datos son más o menos volátiles, identificarlos correctamente y posteriormente proceder a su recolección y clasificación.
+
+El orden de recolección a seguir según la volatilidad en un caso post-mortem debe ser:
+
+*   **Registros y caché**: Datos temporales que se borran al apagar el sistema.
+    
+*   **Tabla de enrutamiento, caché ARP, procesos, kernel, memoria**: Información sobre rutas, IP/MAC, procesos, rendimiento y uso de memoria.
+    
+*   **Información temporal**: Hora y fecha que cambian y se pierden al reiniciar.
+    
+*   **Disco**: Datos persistentes, incluso con el sistema apagado.
+    
+*   **Logs del sistema**: Registros de eventos y errores, editables.
+    
+*   **Topología de red**: Estructura y dispositivos de la red.
+    
+*   **Documentos**: Archivos que se conservan hasta ser eliminados.
+    
+
+A medida que vamos identificando, es importante anotar estos hallazgos de forma que queden reflejados en un documento.
+
+El documento debe incluir la ruta de la evidencia encontrada, el hash no alterado, el marketime y una breve descripción. El documento que usaremos tendrá la siguiente estructura:
+
+```
+**Documentación de evidencia forense**
+
+**Información general**
+
+*   Número de caso:
+    
+*   Investigador:
+    
+*   Fecha y hora de recolección:
+    
+
+**Detalles de la evidencia**
+
+**1\. Ruta de la evidencia**
+
+*   Ubicación física:
+    
+*   Ruta del sistema:
+    
+
+**2\. Hash no alterado**
+
+*   Algoritmo utilizado:
+    
+*   Valor hash:
+    
+
+**3\. Mtime (Tiempo de modificación)**
+
+*   Fecha:
+    
+*   Hora:
+    
+
+**4\. Descripción breve de la evidencia**
+
+*   Breve descripción:
+```    
+
+Antes de comenzar con la adquisición de evidencias es importante tener las autorizaciones pertinentes para poder manipularlas. Esto es muy importante ya que en ocasiones se pueden manejar datos confidenciales o incluso que la disponibilidad de los servicios quede afectada.
+
+Un proceso importante, sería realizar fotografías de todo el proceso y etiquetar el cableado o dispositivos, para asegurar que el proceso sea repetible y reproducible, para ello deberemos de rellenar un acta de adquisición el cual es un documento crucial que registra detalladamente el proceso de obtención de evidencia digital. 
+
+Basándonos en la norma ISO/IEC 27037 el acta de adquisición debe de ser como el siguiente ejemplo:
+```
+**ACTA DE ADQUISICIÓN FORENSE**
+
+Número de caso: \[ \] Fecha: \[ \] Hora de inicio: \[ \] Lugar: \[ \] 
+
+Investigador responsable: \[ \]
+
+**1\. Identificación del dispositivo**
+
+*   Tipo de dispositivo: \[Ej. Ordenador portátil, disco duro externo\]
+    
+*   Marca y modelo: \[Detalles del dispositivo\]
+    
+*   Número de serie: \[Número de serie\]
+    
+*   Estado físico: \[Descripción del estado\]
+    
+
+**2\. Método de adquisición**
+
+*   Herramienta(s) utilizada(s): \[Nombre y versión del software/hardware\]
+    
+*   Tipo de adquisición: \[Ej. Imagen forense completa, adquisición lógica\]
+    
+*   Bloqueo de escritura utilizado: \[Detalles del dispositivo de bloqueo\]
+    
+
+**3\. Detalles de la evidencia adquirida**
+
+*   Nombre del archivo de imagen: \[Insertar nombre del archivo\]
+    
+*   Tamaño del archivo: \[Tamaño en bytes\]
+    
+*   Hash de la evidencia:
+    
+    *   Algoritmo: \[Ej. SHA-256\]
+        
+    *   Valor: \[Insertar valor hash\]
+        
+
+**4\. Observaciones**
+
+\[Cualquier detalle relevante o incidencia durante el proceso\]
+
+Hora de finalización: \[Hora de finalización\]
+
+Firmas:
+
+\[Nombre del perito\]
+
+\[Nombre del testigo\]
+```
