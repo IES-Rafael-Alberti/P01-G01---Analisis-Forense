@@ -283,43 +283,43 @@ A medida que vamos identificando, es importante anotar estos hallazgos de forma 
 El documento debe incluir la ruta de la evidencia encontrada, el hash no alterado, el marketime y una breve descripción. El documento que usaremos tendrá la siguiente estructura:
 
 ```
-**Documentación de evidencia forense**
+Documentación de evidencia forense
 
-**Información general**
+Información general
 
-*   Número de caso:
+   - Número de caso:
     
-*   Investigador:
+   - Investigador:
     
-*   Fecha y hora de recolección:
-    
-
-**Detalles de la evidencia**
-
-**1\. Ruta de la evidencia**
-
-*   Ubicación física:
-    
-*   Ruta del sistema:
+   - Fecha y hora de recolección:
     
 
-**2\. Hash no alterado**
+Detalles de la evidencia
 
-*   Algoritmo utilizado:
-    
-*   Valor hash:
-    
+1.- Ruta de la evidencia
 
-**3\. Mtime (Tiempo de modificación)**
-
-*   Fecha:
+   - Ubicación física:
     
-*   Hora:
+   - Ruta del sistema:
     
 
-**4\. Descripción breve de la evidencia**
+2.- Hash no alterado
 
-*   Breve descripción:
+   - Algoritmo utilizado:
+    
+   - Valor hash:
+    
+
+3.- Mtime (Tiempo de modificación)
+
+   - Fecha:
+    
+   - Hora:
+    
+
+4.- Descripción breve de la evidencia
+
+   - Breve descripción:
 ```    
 
 Antes de comenzar con la adquisición de evidencias es importante tener las autorizaciones pertinentes para poder manipularlas. Esto es muy importante ya que en ocasiones se pueden manejar datos confidenciales o incluso que la disponibilidad de los servicios quede afectada.
@@ -328,54 +328,54 @@ Un proceso importante, sería realizar fotografías de todo el proceso y etiquet
 
 Basándonos en la norma ISO/IEC 27037 el acta de adquisición debe de ser como el siguiente ejemplo:
 ```
-**ACTA DE ADQUISICIÓN FORENSE**
+ACTA DE ADQUISICIÓN FORENSE
 
-Número de caso: \[ \] Fecha: \[ \] Hora de inicio: \[ \] Lugar: \[ \] 
+Número de caso: [ ] Fecha: [ ] Hora de inicio: [ ] Lugar: [ ] 
 
-Investigador responsable: \[ \]
+Investigador responsable: [ ]
 
-**1\. Identificación del dispositivo**
+1.- Identificación del dispositivo
 
-*   Tipo de dispositivo: \[Ej. Ordenador portátil, disco duro externo\]
+   - Tipo de dispositivo: [Ej. Ordenador portátil, disco duro externo]
     
-*   Marca y modelo: \[Detalles del dispositivo\]
+   - Marca y modelo: [Detalles del dispositivo]
     
-*   Número de serie: \[Número de serie\]
+   - Número de serie: [Número de serie]
     
-*   Estado físico: \[Descripción del estado\]
-    
-
-**2\. Método de adquisición**
-
-*   Herramienta(s) utilizada(s): \[Nombre y versión del software/hardware\]
-    
-*   Tipo de adquisición: \[Ej. Imagen forense completa, adquisición lógica\]
-    
-*   Bloqueo de escritura utilizado: \[Detalles del dispositivo de bloqueo\]
+   - Estado físico: [Descripción del estado]
     
 
-**3\. Detalles de la evidencia adquirida**
+2.- Método de adquisición
 
-*   Nombre del archivo de imagen: \[Insertar nombre del archivo\]
+   - Herramienta(s) utilizada(s): [Nombre y versión del software/hardware]
     
-*   Tamaño del archivo: \[Tamaño en bytes\]
+   - Tipo de adquisición: [Ej. Imagen forense completa, adquisición lógica]
     
-*   Hash de la evidencia:
+   - Bloqueo de escritura utilizado: [Detalles del dispositivo de bloqueo]
     
-    *   Algoritmo: \[Ej. SHA-256\]
+
+3.- Detalles de la evidencia adquirida
+
+   - Nombre del archivo de imagen: [Insertar nombre del archivo]
+    
+   - Tamaño del archivo: [Tamaño en bytes]
+    
+   - Hash de la evidencia:
+    
+       - Algoritmo: [Ej. SHA-256]
         
-    *   Valor: \[Insertar valor hash\]
+       - Valor: [Insertar valor hash]
         
 
-**4\. Observaciones**
+4.- Observaciones
 
-\[Cualquier detalle relevante o incidencia durante el proceso\]
+[Cualquier detalle relevante o incidencia durante el proceso]
 
-Hora de finalización: \[Hora de finalización\]
+Hora de finalización: [Hora de finalización]
 
 Firmas:
 
-\[Nombre del perito\]
+[Nombre del perito]
 
-\[Nombre del testigo\]
+[Nombre del testigo]
 ```
