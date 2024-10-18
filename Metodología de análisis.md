@@ -44,6 +44,7 @@ La ISO/IEC 27037 es una norma internacional que proporciona directrices para la 
 
 El propósito principal de esta norma es establecer un marco estandarizado para el manejo de evidencias digitales, asegurando su validez y admisibilidad en procesos judiciales. Busca facilitar el intercambio de evidencias digitales entre diferentes jurisdicciones y proporcionar orientación sobre mejores prácticas en el tratamiento de estas evidencias.
 
+
 **Estructura**.
 
 - Identificación de evidencias digitales potenciales
@@ -66,17 +67,20 @@ Además, se definen dos **roles** especializados:
 
 La ISO/IEC 27037 es aplicable a una amplia gama de dispositivos y escenarios, incluyendo medios de almacenamiento digitales, dispositivos móviles y personales, sistemas de navegación, cámaras digitales y de video, ordenadores conectados a redes, así como redes basadas en protocolos TCP/IP. Su enfoque integral permite su utilización en diversas situaciones donde se requiera la gestión adecuada de evidencias digitales.
 
+
 **Importancia**.
 
 Esta norma es fundamental porque asegura que la evidencia digital se recopila de manera válida para su uso legal. Proporciona un estándar internacional que mejora la credibilidad y admisibilidad de las evidencias en procesos judiciales. Además, facilita la colaboración entre diferentes jurisdicciones en casos que involucran evidencias digitales y establece buenas prácticas para profesionales en el campo de la informática forense.
 
 En resumen, la ISO/IEC 27037 es una herramienta esencial para garantizar la integridad y validez de las evidencias digitales en investigaciones forenses, proporcionando un marco estandarizado que puede ser utilizado internacionalmente en contextos legales y de seguridad informática.
 
+
 ## ISO/IEC 27042
 
 La ISO/IEC 27042 es una norma que proporciona un marco para las directrices y posterior interpretación de las evidencias electrónicas. Establece cómo un perito debe abordar el análisis y la interpretación de evidencias digitales en investigaciones forenses.
 
 **Objetivo**. El objetivo principal de esta norma es proporcionar orientación sobre cómo realizar el análisis e interpretación de evidencias digitales potenciales en incidentes de seguridad. Busca identificar y evaluar aquellas evidencias que pueden ayudar a comprender el incidente, asegurando que el proceso sea válido, reproducible y repetible.
+
 
 **Estructura**. La norma se estructura en torno a varios elementos clave:
 - Selección y justificación de métodos de análisis
@@ -88,33 +92,21 @@ La ISO/IEC 27042 es una norma que proporciona un marco para las directrices y po
 - Documentación y registro del proceso de análisis
     
 - Marco común para el manejo de incidentes de seguridad
-    
 
-**Aplicabilidad**. La ISO/IEC 27042 es aplicable en:
 
-- Investigaciones forenses digitales
-    
-- Análisis de incidentes de seguridad informática
-    
-- Procesos judiciales que involucren evidencias digitales
-    
-- Desarrollo de nuevos métodos de análisis forense digital
-    
+**Aplicabilidad**. 
 
-**Importancia**. La importancia de esta norma radica en varios aspectos:
+La **ISO/IEC 27042** tiene varias áreas de aplicabilidad. Es relevante en investigaciones forenses digitales, en el análisis de incidentes de seguridad informática, y en los procesos judiciales que involucren evidencias digitales. Además, es útil en el desarrollo de nuevos métodos de análisis forense digital, ya que establece pautas claras para estos campos.
 
-- Establece un estándar común para el análisis e interpretación de evidencias digitales
-    
-- Mejora la credibilidad y admisibilidad de las evidencias en procesos legales
-    
-- Proporciona una base para la implementación de nuevos métodos de análisis
-    
-- Asegura que las opiniones de los investigadores estén claramente separadas de los hechos
-    
-- Enfatiza la importancia de la competencia y formación continua de los analistas forenses
-    
 
-En resumen, la ISO/IEC 27042 es fundamental para garantizar la calidad, fiabilidad y validez de los análisis forenses digitales, proporcionando un marco estandarizado que puede ser utilizado tanto en contextos legales como en investigaciones de seguridad informática.
+**Importancia**.
+
+En cuanto a su **importancia**, esta norma juega un papel crucial por varios motivos. En primer lugar, establece un estándar común para el análisis e interpretación de las evidencias digitales, lo cual es fundamental para garantizar consistencia en su tratamiento. También contribuye a mejorar la credibilidad y la admisibilidad de las evidencias en procesos legales, lo que es clave en situaciones judiciales donde las pruebas digitales son parte del caso.
+
+Por otro lado, la norma proporciona una base sólida para la implementación de nuevos métodos de análisis forense digital, facilitando la innovación en este ámbito. Además, asegura que las opiniones de los investigadores se mantengan claramente separadas de los hechos, lo cual es crucial para evitar sesgos en la interpretación de las evidencias. Finalmente, la norma subraya la importancia de que los analistas forenses mantengan una competencia adecuada y una formación continua, lo que garantiza la calidad y confiabilidad de su trabajo.
+
+En **resumen**, la ISO/IEC 27042 es fundamental para garantizar la calidad, fiabilidad y validez de los análisis forenses digitales, proporcionando un marco estandarizado que puede ser utilizado tanto en contextos legales como en investigaciones de seguridad informática.
+
 
 ## RFC 3227
 
