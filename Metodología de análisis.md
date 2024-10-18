@@ -543,3 +543,4 @@ Como resultado de esta comparación, hemos propuesto una metodología propia, ba
 
 En resumen, creemos que este desarrollo es lo suficientemente sólido para satisfacer las necesidades actuales.
 
+![Esquema Resumen](/Assets/Esquema%20resumen.jpg)
