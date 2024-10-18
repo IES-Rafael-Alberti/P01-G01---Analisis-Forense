@@ -401,3 +401,24 @@ La cadena de custodia es el proceso controlado que se aplica a las evidencias de
 Es esencial documentar detalladamente cada evidencia desde su identificación para asegurar su control y trazabilidad. 
 
 Mientras los dispositivos estén en el laboratorio, deben estar embalados y etiquetados con información clave, como un identificador único, el responsable, descripción, propietario y lugar de confiscación, así como fecha y hora. Dependiendo del tipo de equipo, como discos duros o placas electrónicas, se deben tomar precauciones adicionales, como protección contra electricidad estática mediante bolsas antiestáticas. Se debe almacenar la información en dispositivos cuya seguridad haya sido demostrada y que permitan detectar intentos de acceso no autorizados.
+
+
+# Análisis de las evidencias (UNE 71506:2013).
+
+La fase de análisis concluye cuando se identifica quién o qué causó el incidente, cómo ocurrió y cuál fue el impacto en el sistema. Es el núcleo de la investigación, y debe generar la mayor cantidad de información posible para elaborar informes bien documentados.
+
+En la investigación de datos, es esencial no usar los datos originales sin autorización y cumplir con las leyes y normativas vigentes. Los resultados deben ser verificables y reproducibles, permitiendo que otros investigadores puedan replicar el análisis. Esto asegura la integridad y credibilidad del estudio.
+
+A continuación, se detallan las acciones y procedimientos específicos que se llevarán a cabo:
+
+**Recuperación de ficheros borrados**: Se emplearán técnicas especializadas de recuperación de datos para intentar restaurar ficheros que han sido eliminados del sistema. Este proceso es clave para acceder a información que pudo haber sido intencionadamente borrada o perdida accidentalmente y que podría ser crucial para la investigación.
+
+**Estudio de las particiones y sistemas de archivos:** Se analizará la estructura lógica del disco duro, con especial énfasis en las particiones (es decir, cómo se ha dividido el espacio de almacenamiento). Además, se examinarán los sistemas de archivos utilizados (por ejemplo, NTFS, FAT32, ext4) para comprender cómo se almacena, organiza y gestiona la información. Este análisis puede revelar alteraciones, accesos o modificaciones inusuales en las particiones o el sistema de archivos.
+
+**Estudio del sistema operativo:** El análisis del sistema operativo permitirá evaluar cómo interactúa con el hardware y el software del sistema investigado. Se buscarán rastros de actividad sospechosa, como instalaciones de programas maliciosos, vulnerabilidades explotadas, procesos anómalos o archivos de registro alterados. El objetivo es identificar cómo el sistema operativo pudo haber sido comprometido o cómo facilitó la ocurrencia del evento investigado.
+
+**Estudio de la seguridad implementada en el sistema:** Se evaluarán las medidas de seguridad instaladas y su efectividad, incluyendo el análisis de firewalls, software antivirus, sistemas de detección de intrusiones (IDS), políticas de acceso y autenticación, y otros mecanismos de protección. Este examen ayuda a determinar si la seguridad fue vulnerada y de qué manera.
+
+**Análisis detallado de los datos obtenidos:** Una vez que se ha recuperado y organizado la información, se procederá a un análisis detallado de los datos. Se buscarán patrones, correlaciones, rastros de acceso, transferencias de datos y cualquier actividad que pueda explicar el evento. En este proceso se pueden emplear herramientas de análisis forense para visualizar, interpretar y contextualizar la información.
+
+Cabe recordar que no existe ningún proceso estándar que ayude a la investigación y habrá que estudiar cada caso por separado teniendo en cuentas las diversas particularidades que nos podamos encontrar.
