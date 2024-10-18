@@ -115,3 +115,75 @@ La ISO/IEC 27042 es una norma que proporciona un marco para las directrices y po
     
 
 En resumen, la ISO/IEC 27042 es fundamental para garantizar la calidad, fiabilidad y validez de los análisis forenses digitales, proporcionando un marco estandarizado que puede ser utilizado tanto en contextos legales como en investigaciones de seguridad informática.
+
+## RFC 3227
+
+La RFC 3227 es una guía de alto nivel que establece directrices para la recolección y archivo de datos relacionados con intrusiones y evidencias digitales en incidentes de seguridad. Esta norma está diseñada principalmente para administradores de sistemas e investigadores de incidentes.
+
+**Objetivo.** Proporcionar orientación sobre cómo recopilar y archivar evidencias relevantes ante un incidente de seguridad, de manera que puedan ser admisibles en procesos judiciales.
+
+**Estructura.** La norma aborda:
+
+*   Principios fundamentales durante la recolección de evidencia, incluyendo consideraciones de privacidad y legales.
+    
+*   El proceso de recolección, enfatizando la transparencia y proporcionando pasos detallados.
+    
+*   El proceso de archivo, incluyendo la cadena de custodia y las mejores prácticas para el almacenamiento de evidencias.
+    
+
+**Aplicabilidad.** La RFC 3227 es útil para:
+
+*   Administradores de sistemas e investigadores de incidentes de seguridad.
+    
+*   Formulación de procedimientos de recopilación de evidencias en organizaciones.
+    
+*   Preparación para posibles procesos judiciales relacionados con incidentes de seguridad.
+    
+
+**Importancia.** La norma es fundamental porque:
+
+*   Facilita la trazabilidad del atacante al proporcionar métodos correctos de recopilación de evidencias.
+    
+*   Aumenta la probabilidad de que las evidencias sean admitidas en procesos judiciales.
+    
+*   Ayuda a mantener la integridad de las evidencias durante todo el proceso de investigación.
+    
+*   Proporciona una base sólida para que las organizaciones desarrollen sus propios procedimientos detallados y específicos.
+    
+
+En resumen, la RFC 3227 es crucial para asegurar que la recopilación y manejo de evidencias digitales se realice de manera sistemática, transparente y legalmente admisible, lo cual es esencial en la investigación de incidentes de seguridad y en posibles procesos legales subsecuentes.
+
+## UNE 71506:2013
+
+La norma UNE 71506:2013 establece la metodología para el análisis forense de evidencias electrónicas. Esta norma complementa a la serie UNE 71505 y se enfoca específicamente en el proceso de análisis forense dentro del ciclo de gestión de evidencias electrónicas. Algunos aspectos clave de la norma son:
+
+**Objetivo.** Define el proceso de análisis forense de evidencias electrónicas, proporcionando una metodología estandarizada para su preservación, adquisición, documentación, análisis y presentación.
+
+**Estructura.** La norma se divide en varias fases principales:
+
+1.  **Preservación.** Enfocada en mantener la validez y confiabilidad de las evidencias originales. Incluye procedimientos para el almacenamiento seguro y manejo adecuado de las evidencias.
+    
+2.  **Adquisición.** Detalla el proceso de clonado a bajo nivel de los datos originales, considerando diferentes escenarios (sistemas encendidos o apagados).
+    
+3.  **Documentación.** Establece la necesidad de documentar todo el procedimiento desde el inicio del análisis hasta la entrega del informe pericial. Incluye la documentación de procesos, herramientas utilizadas y la cadena de custodia.
+    
+4.  **Análisis.** Describe las tareas y procesos para analizar las evidencias, incluyendo:
+    
+    *   Recuperación de ficheros borrados
+        
+    *   Estudio de particiones y sistemas de archivos
+        
+    *   Análisis del sistema operativo
+        
+    *   Estudio de la seguridad implementada
+        
+    *   Análisis detallado de los datos obtenidos
+        
+5.  **Presentación.** Guía la elaboración del informe pericial, enfatizando la necesidad de usar un lenguaje comprensible para un público no técnico.
+    
+
+**Aplicabilidad.** La norma es aplicable a cualquier organización, independientemente de su tamaño o actividad, así como a profesionales competentes en el ámbito del análisis forense digital.
+
+**Importancia.** Contribuye a la estandarización y sistematización de la metodología de análisis forense, especialmente en países de habla hispana. Aumenta la probabilidad de que las evidencias electrónicas sean admitidas en procedimientos legales al seguir un proceso riguroso y estandarizado.
+
+Esta norma es fundamental para garantizar la calidad, fiabilidad y admisibilidad legal de las evidencias electrónicas en investigaciones forenses digitales.
