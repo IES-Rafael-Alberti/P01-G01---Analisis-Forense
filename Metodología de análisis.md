@@ -214,3 +214,15 @@ Para realizar una selección de las normas que usaremos en nuestra metodología,
     
 
 *   **ISO/IEC 27042.** Se enfoca en el análisis y evaluación de evidencia digital ya recolectada. Proporciona directrices para interpretar evidencia, aplicar métodos de análisis según el tipo de incidente y generar informes para investigaciones o litigios.
+
+
+**Contenido**
+
+*   **ISO/IEC 27037.** Ofrece directrices sobre identificación, recolección y preservación de evidencia digital, asegurando su admisibilidad legal. Incluye métodos para mantener la cadena de custodia, recomendaciones sobre herramientas forenses y gestión de equipos multidisciplinarios.
+    
+*   **RFC 3227.** Proporciona un enfoque práctico con listas de verificación para la recolección en emergencias. Prioriza tipos de evidencia y detalla cómo preservar datos en sistemas comprometidos, enfatizando la documentación para garantizar la validez.
+    
+*   **UNE 71506.** Presenta procedimientos técnicos exhaustivos para el análisis forense, incluyendo recuperación de datos borrados y análisis de tráfico de red. Se centra en la integridad de la evidencia y la preparación de información para auditorías o tribunales.
+    
+
+*   **ISO/IEC 27042.** Se centra en el análisis e interpretación de evidencia digital, ofreciendo un marco para evaluar la validez de los datos y reconstruir incidentes. Incluye pautas para generar informes claros y objetivos para audiencias técnicas y legales.
