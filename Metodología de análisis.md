@@ -187,3 +187,30 @@ La norma UNE 71506:2013 establece la metodología para el análisis forense de e
 **Importancia.** Contribuye a la estandarización y sistematización de la metodología de análisis forense, especialmente en países de habla hispana. Aumenta la probabilidad de que las evidencias electrónicas sean admitidas en procedimientos legales al seguir un proceso riguroso y estandarizado.
 
 Esta norma es fundamental para garantizar la calidad, fiabilidad y admisibilidad legal de las evidencias electrónicas en investigaciones forenses digitales.
+
+<br>
+
+# Comparativa de normas y estándares
+
+Para realizar una selección de las normas que usaremos en nuestra metodología, es conveniente comparar las normas anteriormente para ver cuales nos pueden ser más útiles. En esta comparativa es importante tener en cuenta el objetivo, el alcance el contenido y la aplicación de cada norma.
+
+## Análisis Comparativo
+
+**Objetivo**
+
+*   **ISO/IEC 27037 y RFC 3227**.Ambas normas se enfocan en la recolección y preservación de evidencia digital, asegurando su integridad y admisibilidad en investigaciones legales. ISO/IEC 27037 ofrece un marco amplio, mientras que RFC 3227 brinda recomendaciones prácticas para incidentes de seguridad.
+    
+*   **UNE 71506.** Se especializa en procedimientos técnicos para el análisis forense de sistemas de información, aplicando herramientas avanzadas para extraer información relevante.
+    
+*   **ISO/IEC 27042.** Complementa a la ISO/IEC 27037 al centrarse en el análisis e interpretación de la evidencia digital, proporcionando pautas sobre cómo evaluar datos, reconstruir eventos y presentar información de manera clara y objetiva.
+    
+**Alcance**
+
+*   **ISO/IEC 27037.** Se centra en la recolección y manejo de evidencia digital en diversos entornos. Cubre exhaustivamente desde la identificación hasta la preservación de evidencia en múltiples plataformas, asegurando la integridad y admisibilidad de la evidencia en procesos legales.
+    
+*   **RFC 3227.** Enfocada en respuestas a incidentes críticos, prioriza la captura de datos volátiles y minimiza la alteración de evidencia. Proporciona guías prácticas para la recolección rápida y efectiva de evidencia digital en situaciones de emergencia.
+    
+*   **UNE 71506.** Especializada en el análisis forense de sistemas de información complejos en entornos empresariales. Va más allá de la preservación, ofreciendo técnicas específicas para analizar, interpretar y documentar pruebas admisibles en tribunales o investigaciones corporativas.
+    
+
+*   **ISO/IEC 27042.** Se enfoca en el análisis y evaluación de evidencia digital ya recolectada. Proporciona directrices para interpretar evidencia, aplicar métodos de análisis según el tipo de incidente y generar informes para investigaciones o litigios.
