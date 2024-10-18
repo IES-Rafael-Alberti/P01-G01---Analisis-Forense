@@ -533,3 +533,13 @@ En la fase final del proceso, toda la información obtenida a partir del anális
 Una vez completado, el informe se remite al solicitante, acompañado del registro de las evidencias manejadas, lo que marca la conclusión del proceso de custodia y garantiza un seguimiento completo de las pruebas.
 
 Además de los resultados del análisis, es recomendable incluir recomendaciones prácticas basadas en los hallazgos, orientadas a mejorar la ciberseguridad y prevenir incidentes futuros. También es fundamental garantizar la integridad tanto de las evidencias como del propio informe mediante el uso de firmas digitales, hashes o mecanismos similares que aseguren que no ha habido alteraciones.
+
+<br>
+
+# Resumen
+Después de realizar una investigación exhaustiva sobre normas y estándares y desarrollar nuestra propia metodología de análisis forense, identificamos la importancia de seguir procedimientos específicos y adoptar medidas adecuadas para garantizar la integridad, autenticidad y validez de las evidencias digitales en el ámbito legal. Al comparar diversas normativas, logramos identificar las mejores prácticas que deben implementarse en nuestra metodología.
+
+Como resultado de esta comparación, hemos propuesto una metodología propia, basada en diferentes normas estudiadas, seleccionando los aspectos que consideramos más relevantes y esenciales. Confiamos en que esta metodología permitirá tener una visión integral de evidencias digitales y las pruebas encontradas en casos futuros.
+
+En resumen, creemos que este desarrollo es lo suficientemente sólido para satisfacer las necesidades actuales.
+
