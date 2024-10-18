@@ -4,29 +4,29 @@
 <br>
 
 # ÍNDICE
-- Introducción
-- Investigación de normas y estándares forenses.
-- Comparativa de normas y estándares
-  - Análisis Comparativo
-    - Objetivo
-    - Alcance
-    - Contenido
-    - Aplicación
-- Desarrollo de metodología propia
-  - Adquisición de evidencia digital. (ISO/IEC 27037)
-  - Preservación y almacenamiento de la evidencia  (RFC 3227).
-  - Análisis de las evidencias (UNE 71506:2013).
-  - Documentación de hallazgos (UNE 71506:2013).
-  - Presentación de resultados (UNE 71506:2013).
-- Resumen
-- Fuentes
+- [Introducción](#introducción)
+- [Investigación de normas y estándares forenses](#investigación-de-normas-y-estándares-forenses)
+- [Comparativa de normas y estándares](#comparativa-de-normas-y-estándares)
+  - [Análisis comparativo](#análisis-comparativo)
+    - [Objetivo](#objetivo)
+    - [Alcance](#alcance)
+    - [Contenido](#contenido)
+    - [Aplicación](#aplicación)
+- [Desarrollo de metodología propia](#desarrollo-de-metodología-propia)
+  - [Adquisición de evidencia digital (ISO/IEC 27037)](#adquisición-de-evidencia-digital-isoiec-27037)
+  - [Preservación y almacenamiento de la evidencia  (RFC 3227)](#preservación-y-almacenamiento-de-la-evidencia-rfc-3227)
+  - [Análisis de las evidencias (UNE 71506:2013)](#análisis-de-las-evidencias-une-715062013)
+  - [Documentación de hallazgos (UNE 71506:2013)](#documentación-de-hallazgos-une-715062013)
+  - [Presentación de resultados (UNE 71506:2013)](#presentación-de-resultados-une-715062013)
+- [Resumen](#resumen)
+- [Fuentes](#fuentes)
 
 <br>
 
 # Introducción
 Hemos asumido el compromiso de desarrollar una metodología de análisis forense propia que refuerce la calidad y precisión de nuestros servicios de análisis de incidentes.
 
-Nuestro objetivo es crear un proceso robusto y metódico que abarque desde la adquisición hasta la presentación de evidencias digitales, garantizando que cada paso cumpla con los más altos estándares de integridad y credibilidad.
+Nuestro  es crear un proceso robusto y metódico que abarque desde la adquisición hasta la presentación de evidencias digitales, garantizando que cada paso cumpla con los más altos estándares de integridad y credibilidad.
 
 Para ello, investigaremos y adaptamos normas y estándares forenses reconocidos, asegurando que nuestra metodología se alinee con las mejores prácticas internacionales y ofrezca a nuestros clientes resultados fiables y consistentes.
 
@@ -196,7 +196,7 @@ Para realizar una selección de las normas que usaremos en nuestra metodología,
 
 ## Análisis Comparativo
 
-**Objetivo**
+### Objetivo
 
 *   **ISO/IEC 27037 y RFC 3227**.Ambas normas se enfocan en la recolección y preservación de evidencia digital, asegurando su integridad y admisibilidad en investigaciones legales. ISO/IEC 27037 ofrece un marco amplio, mientras que RFC 3227 brinda recomendaciones prácticas para incidentes de seguridad.
     
@@ -204,7 +204,7 @@ Para realizar una selección de las normas que usaremos en nuestra metodología,
     
 *   **ISO/IEC 27042.** Complementa a la ISO/IEC 27037 al centrarse en el análisis e interpretación de la evidencia digital, proporcionando pautas sobre cómo evaluar datos, reconstruir eventos y presentar información de manera clara y objetiva.
     
-**Alcance**
+### Alcance
 
 *   **ISO/IEC 27037.** Se centra en la recolección y manejo de evidencia digital en diversos entornos. Cubre exhaustivamente desde la identificación hasta la preservación de evidencia en múltiples plataformas, asegurando la integridad y admisibilidad de la evidencia en procesos legales.
     
@@ -216,7 +216,7 @@ Para realizar una selección de las normas que usaremos en nuestra metodología,
 *   **ISO/IEC 27042.** Se enfoca en el análisis y evaluación de evidencia digital ya recolectada. Proporciona directrices para interpretar evidencia, aplicar métodos de análisis según el tipo de incidente y generar informes para investigaciones o litigios.
 
 
-**Contenido**
+### Contenido
 
 *   **ISO/IEC 27037.** Ofrece directrices sobre identificación, recolección y preservación de evidencia digital, asegurando su admisibilidad legal. Incluye métodos para mantener la cadena de custodia, recomendaciones sobre herramientas forenses y gestión de equipos multidisciplinarios.
     
@@ -227,7 +227,7 @@ Para realizar una selección de las normas que usaremos en nuestra metodología,
 
 *   **ISO/IEC 27042.** Se centra en el análisis e interpretación de evidencia digital, ofreciendo un marco para evaluar la validez de los datos y reconstruir incidentes. Incluye pautas para generar informes claros y objetivos para audiencias técnicas y legales.
 
-**Aplicación**
+### Aplicación
 
 *   **ISO/IEC 27037.** Se aplica en la fase de respuesta a incidentes, asegurando la preservación e integridad de la evidencia digital. Es versátil y se adapta a diferentes plataformas, siendo esencial para mantener la validez de la evidencia en investigaciones legales.
     
