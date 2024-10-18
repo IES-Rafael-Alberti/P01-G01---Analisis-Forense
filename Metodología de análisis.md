@@ -540,3 +540,12 @@ Para realizar esta documentación es importante redactar dos informes: un inform
     
 
 La elaboración de ambos informes es esencial para una comunicación clara y efectiva. El informe ejecutivo facilita la comprensión del incidente para aquellos no especializados, mientras que el informe técnico ofrece un análisis detallado para los profesionales del área. Juntos, aseguran una documentación completa que apoya la toma de decisiones informadas y contribuye a la transparencia del proceso forense.
+
+<br>
+
+# Presentación de resultados (UNE 71506:2013).
+En la fase final del proceso, toda la información obtenida a partir del análisis de las evidencias se reúne en un informe pericial. Este documento, firmado por el perito informático, se entrega a la entidad u organismo que solicitó la evaluación. Dado que el informe generalmente está dirigido a personas con conocimientos limitados en informática, es esencial que esté redactado de manera clara, sin perder la precisión técnica. 
+
+Una vez completado, el informe se remite al solicitante, acompañado del registro de las evidencias manejadas, lo que marca la conclusión del proceso de custodia y garantiza un seguimiento completo de las pruebas.
+
+Además de los resultados del análisis, es recomendable incluir recomendaciones prácticas basadas en los hallazgos, orientadas a mejorar la ciberseguridad y prevenir incidentes futuros. También es fundamental garantizar la integridad tanto de las evidencias como del propio informe mediante el uso de firmas digitales, hashes o mecanismos similares que aseguren que no ha habido alteraciones.
