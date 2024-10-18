@@ -379,3 +379,25 @@ Firmas:
 
 [Nombre del testigo]
 ```
+
+<br>
+
+# Preservación y almacenamiento de la evidencia  (RFC 3227).
+
+
+Una incorrecta preservación, uso o manipulación de las evidencias puede invalidar una investigación ante un tribunal, lo cual es un aspecto crucial en la metodología forense.
+
+La cadena de custodia es el proceso controlado que se aplica a las evidencias desde su hallazgo en la escena hasta su análisis en el laboratorio, evitando manipulaciones indebidas y manteniendo un registro claro de quién las ha manejado, cómo y cuándo. A la hora de crear un documento de custodia es esencial asegurarse de que se cumplan una serie de requisitos y se garantice la integridad, autenticidad y la cadena de custodia mediante unos elementos claves. Dichos elementos son:
+
+*   ¿Dónde?, ¿cuándo? y ¿quién? descubrió y recolectó la evidencia.
+    
+*   ¿Dónde?, ¿cuándo? y ¿quién? manejó la evidencia.
+    
+*   ¿Quién ha custodiado la evidencia?, ¿cuánto tiempo? y ¿cómo la ha almacenado?
+    
+*   En el caso de que la evidencia cambie de custodia indicar cuándo y cómo se realizó el intercambio, incluyendo número de albarán, etc.
+    
+
+Es esencial documentar detalladamente cada evidencia desde su identificación para asegurar su control y trazabilidad. 
+
+Mientras los dispositivos estén en el laboratorio, deben estar embalados y etiquetados con información clave, como un identificador único, el responsable, descripción, propietario y lugar de confiscación, así como fecha y hora. Dependiendo del tipo de equipo, como discos duros o placas electrónicas, se deben tomar precauciones adicionales, como protección contra electricidad estática mediante bolsas antiestáticas. Se debe almacenar la información en dispositivos cuya seguridad haya sido demostrada y que permitan detectar intentos de acceso no autorizados.
