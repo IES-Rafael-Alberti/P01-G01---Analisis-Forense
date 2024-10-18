@@ -402,6 +402,7 @@ Es esencial documentar detalladamente cada evidencia desde su identificación pa
 
 Mientras los dispositivos estén en el laboratorio, deben estar embalados y etiquetados con información clave, como un identificador único, el responsable, descripción, propietario y lugar de confiscación, así como fecha y hora. Dependiendo del tipo de equipo, como discos duros o placas electrónicas, se deben tomar precauciones adicionales, como protección contra electricidad estática mediante bolsas antiestáticas. Se debe almacenar la información en dispositivos cuya seguridad haya sido demostrada y que permitan detectar intentos de acceso no autorizados.
 
+<br>
 
 # Análisis de las evidencias (UNE 71506:2013).
 
@@ -422,3 +423,120 @@ A continuación, se detallan las acciones y procedimientos específicos que se l
 **Análisis detallado de los datos obtenidos:** Una vez que se ha recuperado y organizado la información, se procederá a un análisis detallado de los datos. Se buscarán patrones, correlaciones, rastros de acceso, transferencias de datos y cualquier actividad que pueda explicar el evento. En este proceso se pueden emplear herramientas de análisis forense para visualizar, interpretar y contextualizar la información.
 
 Cabe recordar que no existe ningún proceso estándar que ayude a la investigación y habrá que estudiar cada caso por separado teniendo en cuentas las diversas particularidades que nos podamos encontrar.
+
+<br>
+
+# Documentación de hallazgos (UNE 71506:2013).
+
+
+En esta fase de nuestro análisis forense, nos enfocaremos en la redacción de informes que detallan los antecedentes del incidente, el trabajo realizado a lo largo del proceso, el método empleado y las conclusiones obtenidas, así como el impacto que ha generado todo el suceso.
+
+Para realizar esta documentación es importante redactar dos informes: un informe técnico y un informe ejecutivo. A continuación, mostraremos de que manera se hacen estos informes:
+
+**Informe ejecutivo:** El informe ejecutivo utilizará un lenguaje claro y accesible ya que hay que tener en cuenta que va destinado a personas no expertas en el tema (jueces y gerentes por norma general), por lo tanto hay que evitar el uso de tecnicismos.
+
+**Estructura del informe ejecutivo**
+
+1.- **Resumen del incidente**
+
+*   ¿Qué ocurrió?: Descripción general del incidente
+    
+*   Impacto:  Breve mención de los sistemas o datos comprometidos y las posibles consecuencias.
+    
+*   Fechas clave: Cuando fue detectado el incidente y el tiempo estimado de duración del ataque.
+
+<br>
+
+2.- **Acciones tomadas**
+    
+
+*   Medidas inmediatas: Resumen de las acciones que se tomaron para contener el incidente.
+    
+*   Investigación: Descripción simplificada de cómo se llevó a cabo la investigación forense.
+    
+<br>
+
+3.- **Resultados principales**
+    
+
+*   Causa del incidente: Explicación sencilla de cómo ocurrió el incidente.
+    
+*   Consecuencias: Impacto a nivel de negocio, como interrupción de operaciones, pérdida de datos o reputación.
+    
+*   Identificación del atacante: Sin fue posible, identificar si el ataque provino de una fuente interna o externa.
+    
+<br>
+
+4.- **Conclusión:** 
+*  Resumen breve de la situación actual, indicando si el incidente ha sido completamente resuelto o si se necesita un monitoreo adicional.
+    
+<br><br>
+
+**Informe técnico:** El informe técnico es para los equipos de TI, seguridad y forenses. Debe contener todos los detalles del análisis, las herramientas utilizadas, las pruebas, los hallazgos y las recomendaciones técnicas. Es fundamental para documentar todo el proceso en detalle.
+
+**Estructura del informe técnico**
+
+1.- **Descripción  del incidente:**
+    
+
+*   Cronología detallada: Incluir la fecha y hora en que se detectó el incidente, cuándo se reportó, cuándo se empezaron a tomar acciones y cuánto tiempo duró cada etapa.
+    
+*   Identificación del tipo de ataque: Descripción técnica del tipo de amenaza.
+    
+<br>
+
+2.- **Recolección de evidencias:**
+    
+
+*   Procedimiento de recolección: Describir cómo y qué tipo de evidencias se recolectaron.
+    
+*   Herramientas utilizadas: Mencionar las herramientas forenses empleadas.
+    
+*   Cadena de custodia: Describir cómo se mantuvo la integridad de las evidencias.
+    
+<br>
+
+3.- **Análisis forense:**
+    
+
+*   Examinación de logs: Presentar los análisis de los logs de sistemas, servidores o firewalls. Indicar si hubo actividad inusual.
+    
+*   Análisis de malware: Descripción del análisis estático y dinámico del malware encontrado.
+    
+*   Actividad de red: Descripción de cualquier tráfico sospechoso, exfiltración de datos o conexión a IPs maliciosas.
+    
+*   Examen de discos o dispositivos: Resultados del análisis de dispositivos afectados, extracción de archivos maliciosos o modificaciones a sistemas.
+    
+<br>
+
+4.- **Resultados detallados:**
+    
+
+*   Vector de ataque: Explicación técnica de cómo el atacante consiguió acceso o explotó vulnerabilidades
+    
+*   Sistemas comprometidos: Detallar los sistemas o archivos comprometidos.
+    
+*   Atacante identificado: Si se pudo determinar, incluir detalles técnicos sobre el origen del ataque.
+    
+<br>
+
+5.- **Acciones correctivas y preventivas:**
+    
+
+*   Contención del ataque: Explicar cómo se detuvo el ataque y qué medidas se tomaron.
+    
+*   Mitigación: Descripción de las soluciones aplicadas para restaurar sistemas y eliminar la amenaza.
+    
+*   Parcheo y actualización: Mencionar cualquier parche o actualización implementada.
+    
+<br>
+
+6.- **Conclusión técnica:**
+    
+
+*   Resumen del estado final del sistema después de la investigación y la mitigación.
+    
+*   Indicación de cualquier seguimiento adicional necesario.
+    
+
+La elaboración de ambos informes es esencial para una comunicación clara y efectiva. El informe ejecutivo facilita la comprensión del incidente para aquellos no especializados, mientras que el informe técnico ofrece un análisis detallado para los profesionales del área. Juntos, aseguran una documentación completa que apoya la toma de decisiones informadas y contribuye a la transparencia del proceso forense.
