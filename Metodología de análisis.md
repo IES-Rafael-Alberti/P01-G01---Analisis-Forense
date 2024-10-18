@@ -226,3 +226,27 @@ Para realizar una selección de las normas que usaremos en nuestra metodología,
     
 
 *   **ISO/IEC 27042.** Se centra en el análisis e interpretación de evidencia digital, ofreciendo un marco para evaluar la validez de los datos y reconstruir incidentes. Incluye pautas para generar informes claros y objetivos para audiencias técnicas y legales.
+
+**Aplicación**
+
+*   **ISO/IEC 27037.** Se aplica en la fase de respuesta a incidentes, asegurando la preservación e integridad de la evidencia digital. Es versátil y se adapta a diferentes plataformas, siendo esencial para mantener la validez de la evidencia en investigaciones legales.
+    
+*   **RFC 3227.** Ideal para situaciones críticas que requieren respuestas rápidas. Proporciona listas de verificación y prioriza la recolección de datos volátiles, garantizando que la evidencia se preserve sin alteraciones.
+    
+*   **UNE 71506.** Utilizada en análisis forenses detallados en entornos empresariales. Se enfoca en técnicas avanzadas para investigar incidentes complejos y preparar reportes técnicos para auditorías o procedimientos legales.
+    
+*   **ISO/IEC 27042.** Se centra en el análisis e interpretación de evidencia digital. Ayuda a convertir resultados forenses en información procesable y es clave para comunicar hallazgos de manera clara a audiencias técnicas y legales.
+    
+
+**Justificación de la elección**
+
+La elección de **ISO/IEC 27037**, **RFC 3227** y **UNE 71506** está justificada por su cobertura integral del proceso forense digital.
+
+*   **ISO/IEC 27037** asegura una **recolección y preservación de la evidencia digital** adecuada, manteniendo su integridad y garantizando su validez en auditorías o tribunales.
+    
+*   **RFC 3227** es esencial para situaciones críticas, proporcionando **guías prácticas para la preservación inmediata** de datos volátiles durante incidentes de seguridad.
+    
+*   **UNE 71506** ofrece un enfoque avanzado para el **análisis forense técnico de sistemas de información**, permitiendo extraer información detallada y procesable.
+    
+
+Juntos, estos estándares aseguran una gestión completa de la evidencia, desde su recolección hasta su análisis técnico, mejorando la eficacia de las investigaciones forenses.
